@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Login from './pages/Login';
+<<<<<<< HEAD
 import Register from './pages/Register';
 import ProductDetail from './pages/ProductDetail';
 import Cart from './pages/Cart';
@@ -31,3 +32,18 @@ function App() {
 }
 
 export default App;
+=======
+
+function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
+      </Routes>
+    </Router>
+  );
+}
+
+export default App; 
+>>>>>>> 0abfaf033c5e8bc6cf1c4d98bde510067872a69d

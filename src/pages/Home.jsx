@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useEffect, useState } from 'react';
 import { fetchProducts, filterProducts } from '../api/axios';
 import { FaStar } from 'react-icons/fa';
@@ -67,6 +68,15 @@ function Home() {
             ))}
          </div>
       )}
+=======
+import React from 'react';
+
+function Home() {
+  return (
+    <div>
+      <h1>Welcome to the E-commerce App</h1>
+      <a href="/login">Login</a>
+>>>>>>> 0abfaf033c5e8bc6cf1c4d98bde510067872a69d
     </div>
   );
 }
