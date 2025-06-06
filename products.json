@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "price": 99.99,
+      "brand": "Brand A",
+      "rating": 4,
+      "images": ["https://via.placeholder.com/200x200?text=Headphones"]
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "description": "Fitness tracking, notifications, and more.",
+      "price": 149.99,
+      "brand": "Brand B",
+      "rating": 5,
+      "images": ["https://via.placeholder.com/200x200?text=Smart+Watch"]
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with deep bass and long battery life.",
+      "price": 59.99,
+      "brand": "Brand C",
+      "rating": 3,
+      "images": ["https://via.placeholder.com/200x200?text=Speaker"]
+    },
+    {
+      "id": 4,
+      "name": "4K Action Camera",
+      "description": "Capture your adventures in stunning 4K.",
+      "price": 199.99,
+      "brand": "Brand A",
+      "rating": 4,
+      "images": ["https://via.placeholder.com/200x200?text=Action+Camera"]
+    },
+    {
+      "id": 5,
+      "name": "Gaming Mouse",
+      "description": "Ergonomic design with customizable buttons.",
+      "price": 39.99,
+      "brand": "Brand B",
+      "rating": 5,
+      "images": ["https://via.placeholder.com/200x200?text=Gaming+Mouse"]
+    }
+  ]
+} 
